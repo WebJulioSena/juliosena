@@ -1,6 +1,5 @@
 # Olá! Sou o Julio Sena
 
-- 👋 Hi, I’m @WebJulioSena
 - 👀 Tenho interesse em aprender cada vez mais
 - 🌱 Estou estudando C++ atualmente
 
@@ -13,11 +12,13 @@
   <div style="display: inline_block"><br>
 
   <img align="center" alt="Sena-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sena-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Sena-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
  
 </div>
   
   ##
+  
+  
   
   
